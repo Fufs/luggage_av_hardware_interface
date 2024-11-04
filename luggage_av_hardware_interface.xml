@@ -1,0 +1,5 @@
+<library path="luggage_av_hardware_interface">
+    <class name="luggage_av_hardware_interface/LuggageAVHardawreInterface" type="luggage_av_hardware_interface::LuggageAVHardawreInterface" base_class_type="hardware_interface::SystemInterface">
+        <description>Hardware interface for the Luggage AV</description>
+    </class>
+</library>
